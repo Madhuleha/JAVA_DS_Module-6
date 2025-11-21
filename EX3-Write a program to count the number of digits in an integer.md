@@ -47,7 +47,7 @@ public class CountDigits {
 
 ## Output:
 
-<img width="1419" height="634" alt="Screenshot 2025-11-21 185744" src="https://github.com/user-attachments/assets/1e2952a8-0b33-465d-82ca-a7fe70ef1a22" />
+<img width="543" height="180" alt="image" src="https://github.com/user-attachments/assets/b8f08758-da73-401b-aada-3370e0cd393e" />
 
 
 ## Result:
