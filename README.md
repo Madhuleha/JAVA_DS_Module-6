@@ -1,4 +1,4 @@
-public class InversionCount {
+public class InversionCount { 
 
     // Function to merge two halves and count inversions
     private static long merge(int[] arr, int left, int mid, int right) {
